@@ -1,5 +1,11 @@
+-- =====================================
+--  Marcelo de Rezende Maciel
+--  https://github.com/marcelormaciel
+--  20/03/2025
+-- =====================================
+
 CREATE TABLE dados (
-    AlunoID int,
+    ClienteID int,
     Nome varchar(50),
     Sobrenome varchar(50),
     Endereco varchar(150),
